@@ -1,8 +1,8 @@
-Sinfull.c script
+Sinfull script
 
 use 'perl sinfull.c' to access the script.
 
-you will need to install perl using 'yum install perl' this might take some time
+you will need to install perl using 'yum install perl' or 'sudo apt install perl' this might take some time
 
 to navigate the menu use 'help' or 'methods'
 
